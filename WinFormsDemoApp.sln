@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsDemo", "WinFormsDemo\WinFormsDemo.csproj", "{9C415DCE-3ED0-43CB-AD01-8E02C686CFC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterWinFormsDemo", "BetterWinFormsDemo\BetterWinFormsDemo.csproj", "{26BE11B5-D510-431A-8843-D7AD827B0167}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Images", "Images\Images.csproj", "{DC2B4015-EDA8-4829-A40C-07377C4CF22D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCam", "WebCam\WebCam.csproj", "{EF3BF40C-DB00-4E91-AB6B-3C2BEE7EC9CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelForm", "ExcelForm\ExcelForm.csproj", "{2E4D9304-5C59-444D-B057-301C6EDA98AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsbWindowsForm", "UsbWindowsForm\UsbWindowsForm.csproj", "{BB42E5F9-E48D-415A-851C-EB694040A530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C415DCE-3ED0-43CB-AD01-8E02C686CFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C415DCE-3ED0-43CB-AD01-8E02C686CFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C415DCE-3ED0-43CB-AD01-8E02C686CFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C415DCE-3ED0-43CB-AD01-8E02C686CFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26BE11B5-D510-431A-8843-D7AD827B0167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BE11B5-D510-431A-8843-D7AD827B0167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BE11B5-D510-431A-8843-D7AD827B0167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BE11B5-D510-431A-8843-D7AD827B0167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2B4015-EDA8-4829-A40C-07377C4CF22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2B4015-EDA8-4829-A40C-07377C4CF22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2B4015-EDA8-4829-A40C-07377C4CF22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2B4015-EDA8-4829-A40C-07377C4CF22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3BF40C-DB00-4E91-AB6B-3C2BEE7EC9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3BF40C-DB00-4E91-AB6B-3C2BEE7EC9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3BF40C-DB00-4E91-AB6B-3C2BEE7EC9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3BF40C-DB00-4E91-AB6B-3C2BEE7EC9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4D9304-5C59-444D-B057-301C6EDA98AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4D9304-5C59-444D-B057-301C6EDA98AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4D9304-5C59-444D-B057-301C6EDA98AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4D9304-5C59-444D-B057-301C6EDA98AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB42E5F9-E48D-415A-851C-EB694040A530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB42E5F9-E48D-415A-851C-EB694040A530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB42E5F9-E48D-415A-851C-EB694040A530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB42E5F9-E48D-415A-851C-EB694040A530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABE5FA6C-DC73-42A9-94B1-186D5C3036B2}
+	EndGlobalSection
+EndGlobal
